@@ -1,0 +1,80 @@
+
+
+
+.my_navbar{
+	display:flex;
+	justify-content: space-between;
+	object-fit: cover;
+	width: 100%; background: #F5EFE7;
+	height: 55px;
+
+}
+
+.logo {
+	object-fit: cover;
+}
+
+.links{
+	width: 280px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 80px;
+}
+
+a{
+	text-decoration: none;
+	display:inline-block;
+	color: black;
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.rs {
+	display: flex;
+	width: 10%;
+	justify-content: space-between;
+	align-items: center;
+	margin-right: 20px;
+}
+
+h1 {
+
+	text-align: center;
+	font-family: 'Cardo', serif;
+}
+
+.card-title {
+	font-family: 'Cardo', serif;
+}
+
+.card-body {
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+
+.une {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.cadre {
+	margin-bottom: 40px;
+}
+
+.width-small {
+	width: 400px;
+}
+
+.carte {
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	color: #F5EFE7 ;
+}
+
+
+.frame {
+
+	padding: 20px;
+	margin: 10px;
+}
